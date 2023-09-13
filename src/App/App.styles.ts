@@ -12,6 +12,5 @@ export const Wrapper = styled.div`
     bottom:0px;
     left:0px;
     display:flex;
-    justify-content:center;
-    align-items:center;
+
 `;
